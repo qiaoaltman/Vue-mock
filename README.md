@@ -1,4 +1,4 @@
-cnpm install
+npm install
 
 cnpm run dev
 
